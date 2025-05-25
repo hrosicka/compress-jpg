@@ -1,5 +1,11 @@
 # 🖼️ CompressJPG
 
+![License](https://img.shields.io/github/license/hrosicka/compress-jpg)
+![Last Commit](https://img.shields.io/github/last-commit/hrosicka/compress-jpg)
+![Issues](https://img.shields.io/github/issues/hrosicka/compress-jpg)
+![GitHub stars](https://img.shields.io/github/stars/hrosicka/compress-jpg)
+![GitHub forks](https://img.shields.io/github/forks/hrosicka/compress-jpg)
+
 > The perfect helper for shrinking your JPG images – because sometimes less really is more! 🪄
 
 ## 📦 About the Project

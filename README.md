@@ -6,7 +6,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/hrosicka/compress-jpg)
 ![GitHub forks](https://img.shields.io/github/forks/hrosicka/compress-jpg)
 
-> The perfect helper for shrinking your JPG images – because sometimes less really is more! 🪄
+> The perfect helper for shrinking your JPG images – because sometimes less really is more!
 
 ## 📦 About the Project
 

@@ -50,7 +50,8 @@ def resize_image_percentage(input_path, output_path, percentage):
         print(f"An error occurred during image processing: {e}")
 
 # Entry point of the script
-if __name__ == "__main__":
+def main():
+    """Handles user input and execution flow for resizing."""
     # 1. Get file paths from the user
     input_file = input("Enter the path to the input JPG image: ")
     output_file = input("Enter the path to save the resized image (including the .jpg filename): ")
@@ -74,3 +75,7 @@ if __name__ == "__main__":
 
     # 3. Execute the main function with validated inputs
     resize_image_percentage(input_file, output_file, resize_percentage)
+
+# Entry point of the script
+if __name__ == "__main__":
+    main() # Call the main function

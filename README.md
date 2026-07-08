@@ -9,14 +9,6 @@
   </a>
   <br>
   
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/python-v3.8%2B-FFE873?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
-  </a>
-  <a href="https://pypi.org/">
-    <img src="https://img.shields.io/badge/pypi-not--published-lightgrey?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI - Downloads">
-  </a>
-  <br>
-  
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-34A853?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="License">
   </a>

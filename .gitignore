@@ -1,0 +1,105 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+eggs/
+.eggs/
+*.egg-info/
+.installed.cfg
+*.egg
+pip-wheel-metadata/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Local DB / logs
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask / instance
+instance/
+.webassets-cache
+
+# Sphinx documentation
+docs/_build/
+
+# Virtual environment / PEP 582
+__pypackages__/
+venv/
+ENV/
+env/
+.venv/
+.python-version
+
+# Lockfiles
+Pipfile.lock
+poetry.lock
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Jupyter
+.ipynb_checkpoints
+
+# mypy / type checkers
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# dotenv
+.env
+.env.*
+
+# Ruff cache
+.ruff_cache/
+
+# Wheels
+*.whl
+
+# GitHub Actions artifacts/logs
+.github/workflows/*.log
+
+# Test / project artifacts (images created during tests/manual runs)
+*.jpg
+*.jpeg
+*.png

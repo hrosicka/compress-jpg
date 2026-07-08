@@ -1,9 +1,26 @@
 # 🖼️ CompressJPG
 
-[![License](https://img.shields.io/github/license/hrosicka/compress-jpg)](https://github.com/hrosicka/compress-jpg/blob/master/LICENSE)
-[![CI](https://github.com/hrosicka/compress-jpg/actions/workflows/ci.yml/badge.svg)](https://github.com/hrosicka/compress-jpg/actions/workflows/ci.yml)
-[![Python](https://img.shields.io/badge/python-3.8%20%7C%203.9%20%7C%203.10%20%7C%203.11-blue)](https://www.python.org/)
-[![PyPI - Downloads](https://img.shields.io/badge/pypi--not--published-lightgrey)](https://pypi.org/)
+<p align="left">
+  <a href="https://github.com/hrosicka/compress-jpg/actions/workflows/ci.yml">
+    <img src="https://img.shields.io/github/actions/workflow/status/hrosicka/compress-jpg/ci.yml?style=for-the-badge&color=8AB4F8&label=CI&logo=githubactions&logoColor=white" alt="CI Status">
+  </a>
+  <a href="https://github.com/hrosicka/compress-jpg/commits/master">
+    <img src="https://img.shields.io/github/last-commit/hrosicka/compress-jpg?style=for-the-badge&color=8AB4F8&logo=github" alt="Last Commit">
+  </a>
+  <br>
+  
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/python-v3.8%2B-FFE873?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
+  </a>
+  <a href="https://pypi.org/">
+    <img src="https://img.shields.io/badge/pypi-not--published-lightgrey?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI - Downloads">
+  </a>
+  <br>
+  
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-34A853?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="License">
+  </a>
+</p>
 
 > The perfect helper for shrinking your JPG images – because sometimes less really is more!
 

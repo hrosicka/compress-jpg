@@ -50,6 +50,7 @@ jobs:
       - name: Run tests with coverage
         env:
           CI: true
+          PYTHONPATH: .
         run: |
           pytest --cov=./ --cov-report=xml --maxfail=1 -q
 

@@ -1,7 +1,8 @@
 # pytest -q
-import pytest
-from unittest.mock import patch, MagicMock
 import sys
+from unittest.mock import MagicMock, patch
+
+import pytest
 from PIL import Image
 
 # -----------------------------------------------------------------------------
@@ -23,8 +24,7 @@ from PIL import Image
 sys.path.append("../CompressJPG")
 
 # Import the functions to be tested
-from compress import resize_image_percentage
-from compress import main
+from compress import main, resize_image_percentage
 
 # --- Fixtures and Setup ---
 

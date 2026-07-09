@@ -1,5 +1,4 @@
 name: CI
-
 on:
   push:
     branches: ["master", "main"]
@@ -11,14 +10,15 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        python-version: [3.8, 3.9, 3.10, 3.11]
+        # OPRAVENO: Verze jsou nyní jako text
+        python-version: ["3.8", "3.9", "3.10", "3.11"]
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5 # AKTUALIZOVÁNO na v5 (podpora Node 20+)
         with:
           python-version: ${{ matrix.python-version }}
 
